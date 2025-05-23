@@ -1,0 +1,24 @@
+     body {
+            text-align: center;
+            font-family: cursive;
+            color: black;
+            background-color: #69a0e9fd;
+        }
+
+        h1 {
+            text-decoration: underline;
+        }
+
+        p {
+            padding: 2rem;
+            margin: 0 auto;
+            width: 50%;
+            font-size: 1.7rem;
+            line-height: 1.5;
+            font-weight: 500;
+            border-radius: 10px;
+            box-shadow: 5px 5px 50px 5px inset;
+        }
+        span {
+            font-weight: bold;
+        }
